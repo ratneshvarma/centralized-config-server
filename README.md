@@ -1,5 +1,5 @@
 # config-server
- 1. create git repository which contains all projects config file environment wise(dev, uat)
+ 1. create git repository which contains all projects config file environment wise(dev, uat) in this example we have config-repo as .git repository (do not forget to put .git file once you clone it)
  2. create configuration server to read the git config repository
  3. create you application e.g. resturant and school and make necesaary configuration to read the properties/yaml values from git config repo thru congig server
  4. put encrypt.key: MySecretKeyHere in your config server properties
