@@ -1,0 +1,1 @@
+encrypt.key: MySecretKeyHere  #put this secret to somewhere else like bitbucket variable or in tomcat(java arg variable)

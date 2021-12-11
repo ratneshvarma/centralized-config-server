@@ -1,0 +1,3 @@
+spring.profiles.active: uat
+spring.application.name: resturant
+spring.cloud.config.uri: http://localhost:8081/config
